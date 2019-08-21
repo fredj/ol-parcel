@@ -4,7 +4,7 @@ This example demonstrates how the `ol` package can be used with Parcel.
 
 Clone the project.
 
-    git clone git@github.com:openlayers/ol-parcel.git
+    git clone https://github.com/openlayers/ol-parcel.git
 
 Install the project dependencies.
 
