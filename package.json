@@ -4,12 +4,12 @@
   "description": "Example using OpenLayers with Parcel",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build --public-url . index.html"
+    "build": "parcel build index.html"
   },
   "dependencies": {
-    "ol": "^5.3.3"
+    "ol": "^6.0.0-beta.15"
   },
   "devDependencies": {
-    "parcel-bundler": "^1.12.3"
+    "parcel": "^2.0.0-alpha.1.1"
   }
 }
